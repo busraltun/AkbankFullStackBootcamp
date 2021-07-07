@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\bin\Debug\net5.0\metot.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\bin\Debug\net5.0\metot.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\bin\Debug\net5.0\metot.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\bin\Debug\net5.0\metot.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\bin\Debug\net5.0\metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\bin\Debug\net5.0\ref\metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\bin\Debug\net5.0\metot.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\ref\metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\metot\obj\Debug\net5.0\metot.genruntimeconfig.cache

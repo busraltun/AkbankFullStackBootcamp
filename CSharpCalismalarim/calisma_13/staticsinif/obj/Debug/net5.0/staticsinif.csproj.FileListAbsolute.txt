@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\bin\Debug\net5.0\staticsinif.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\bin\Debug\net5.0\staticsinif.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\bin\Debug\net5.0\staticsinif.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\bin\Debug\net5.0\staticsinif.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\bin\Debug\net5.0\staticsinif.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\bin\Debug\net5.0\ref\staticsinif.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\bin\Debug\net5.0\staticsinif.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\ref\staticsinif.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\staticsinif\obj\Debug\net5.0\staticsinif.genruntimeconfig.cache

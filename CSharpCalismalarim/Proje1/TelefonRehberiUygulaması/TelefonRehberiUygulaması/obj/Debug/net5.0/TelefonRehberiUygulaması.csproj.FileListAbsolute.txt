@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net5.0\TelefonRehberiUygulaması.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net5.0\TelefonRehberiUygulaması.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net5.0\TelefonRehberiUygulaması.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net5.0\TelefonRehberiUygulaması.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net5.0\TelefonRehberiUygulaması.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net5.0\ref\TelefonRehberiUygulaması.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\bin\Debug\net5.0\TelefonRehberiUygulaması.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\ref\TelefonRehberiUygulaması.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje1\TelefonRehberiUygulaması\TelefonRehberiUygulaması\obj\Debug\net5.0\TelefonRehberiUygulaması.genruntimeconfig.cache

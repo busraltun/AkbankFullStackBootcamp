@@ -1,0 +1,33 @@
+body {
+    background-image: url(image/background.png);
+}
+h2 {
+    color : #ab0f43;
+}
+.check{
+   
+    text-decoration: line-through;
+}
+
+.close {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding: 12px 16px 12px 16px;
+    
+}
+span.btn {
+    font-size: 25px;
+}
+
+.form-control {
+
+    margin-left: 180px;
+
+}
+.btn{
+    margin-left: 200px;
+}
+.col-md-6{
+    margin-left: 220px;
+}

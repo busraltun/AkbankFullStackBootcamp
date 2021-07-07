@@ -1,0 +1,22 @@
+{
+  "name": "busraaltun_htmltemplate",
+  "version": "1.0.0",
+  "description": "* index.js dosyasını oluşturduk çünkü bu dosya React ın çalışmaya başladığı dosyadır.\r #\r ## Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akbank-Full-Stack-Development-Bootcamp/BusraAltun_HtmlTemplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akbank-Full-Stack-Development-Bootcamp/BusraAltun_HtmlTemplate/issues"
+  },
+  "homepage": "https://github.com/Akbank-Full-Stack-Development-Bootcamp/BusraAltun_HtmlTemplate#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}

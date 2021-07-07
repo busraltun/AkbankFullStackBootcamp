@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\bin\Debug\net5.0\try_catch_finally_mantiksal_hatalar.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\bin\Debug\net5.0\try_catch_finally_mantiksal_hatalar.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\bin\Debug\net5.0\try_catch_finally_mantiksal_hatalar.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\bin\Debug\net5.0\try_catch_finally_mantiksal_hatalar.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\bin\Debug\net5.0\try_catch_finally_mantiksal_hatalar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\bin\Debug\net5.0\ref\try_catch_finally_mantiksal_hatalar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\bin\Debug\net5.0\try_catch_finally_mantiksal_hatalar.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\ref\try_catch_finally_mantiksal_hatalar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\try_catch_finally_mantiksal_hatalar\obj\Debug\net5.0\try_catch_finally_mantiksal_hatalar.genruntimeconfig.cache

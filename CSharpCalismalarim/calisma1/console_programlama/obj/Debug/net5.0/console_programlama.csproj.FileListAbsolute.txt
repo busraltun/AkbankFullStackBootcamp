@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\bin\Debug\net5.0\console_programlama.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\bin\Debug\net5.0\console_programlama.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\bin\Debug\net5.0\console_programlama.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\bin\Debug\net5.0\console_programlama.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\bin\Debug\net5.0\console_programlama.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\bin\Debug\net5.0\ref\console_programlama.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\bin\Debug\net5.0\console_programlama.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\ref\console_programlama.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma1\console_programlama\obj\Debug\net5.0\console_programlama.genruntimeconfig.cache

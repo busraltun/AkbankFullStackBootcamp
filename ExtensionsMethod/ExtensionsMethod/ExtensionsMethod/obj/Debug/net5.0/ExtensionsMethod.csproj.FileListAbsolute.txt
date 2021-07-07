@@ -1,0 +1,16 @@
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\bin\Debug\net5.0\ExtensionsMethod.exe
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\bin\Debug\net5.0\ExtensionsMethod.deps.json
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\bin\Debug\net5.0\ExtensionsMethod.runtimeconfig.json
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\bin\Debug\net5.0\ExtensionsMethod.runtimeconfig.dev.json
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\bin\Debug\net5.0\ExtensionsMethod.dll
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\bin\Debug\net5.0\ref\ExtensionsMethod.dll
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\bin\Debug\net5.0\ExtensionsMethod.pdb
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.csprojAssemblyReference.cache
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.AssemblyInfoInputs.cache
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.AssemblyInfo.cs
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.dll
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ref\ExtensionsMethod.dll
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.pdb
+C:\Users\Desktop\BusraAltun_ExtensionsMethod\ExtensionsMethod\ExtensionsMethod\obj\Debug\net5.0\ExtensionsMethod.genruntimeconfig.cache

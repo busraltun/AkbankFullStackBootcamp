@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\bin\Debug\net5.0\ToDo_App.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\bin\Debug\net5.0\ToDo_App.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\bin\Debug\net5.0\ToDo_App.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\bin\Debug\net5.0\ToDo_App.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\bin\Debug\net5.0\ToDo_App.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\bin\Debug\net5.0\ref\ToDo_App.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\bin\Debug\net5.0\ToDo_App.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ref\ToDo_App.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\Proje2\proje2\ToDo_App\ToDo_App\obj\Debug\net5.0\ToDo_App.genruntimeconfig.cache

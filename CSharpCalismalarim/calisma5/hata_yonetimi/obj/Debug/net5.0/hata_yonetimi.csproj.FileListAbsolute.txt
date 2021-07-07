@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\bin\Debug\net5.0\ref\hata_yonetimi.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\bin\Debug\net5.0\hata_yonetimi.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\ref\hata_yonetimi.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma5\hata_yonetimi\obj\Debug\net5.0\hata_yonetimi.genruntimeconfig.cache

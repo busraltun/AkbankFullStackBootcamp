@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\bin\Debug\net5.0\enum_kavrami.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\bin\Debug\net5.0\enum_kavrami.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\bin\Debug\net5.0\enum_kavrami.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\bin\Debug\net5.0\enum_kavrami.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\bin\Debug\net5.0\enum_kavrami.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\bin\Debug\net5.0\ref\enum_kavrami.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\bin\Debug\net5.0\enum_kavrami.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\ref\enum_kavrami.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\enum_kavrami\obj\Debug\net5.0\enum_kavrami.genruntimeconfig.cache

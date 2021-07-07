@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\bin\Debug\net5.0\karar_yapilari.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\bin\Debug\net5.0\karar_yapilari.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\bin\Debug\net5.0\karar_yapilari.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\bin\Debug\net5.0\karar_yapilari.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\bin\Debug\net5.0\karar_yapilari.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\bin\Debug\net5.0\ref\karar_yapilari.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\bin\Debug\net5.0\karar_yapilari.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\ref\karar_yapilari.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma6\karar_yapilari\obj\Debug\net5.0\karar_yapilari.genruntimeconfig.cache

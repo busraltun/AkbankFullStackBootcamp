@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\bin\Debug\net5.0\sınıf_instance_field.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\bin\Debug\net5.0\sınıf_instance_field.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\bin\Debug\net5.0\sınıf_instance_field.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\bin\Debug\net5.0\sınıf_instance_field.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\bin\Debug\net5.0\sınıf_instance_field.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\bin\Debug\net5.0\ref\sınıf_instance_field.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\bin\Debug\net5.0\sınıf_instance_field.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\ref\sınıf_instance_field.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\sınıf_instance_field\obj\Debug\net5.0\sınıf_instance_field.genruntimeconfig.cache

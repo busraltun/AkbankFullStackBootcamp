@@ -1,0 +1,5 @@
+ 1) https://uzmanim.net/soru/asnotracking-nedir-ne-ise-yarar/95603
+
+2) https://stackoverflow.com/questions/12211680/what-difference-does-asnotracking-make
+
+3)https://www.c-sharpcorner.com/UploadFile/ff2f08/entity-framework-and-asnotracking/

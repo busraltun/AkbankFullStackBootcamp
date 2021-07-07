@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sınıf_instance_field/1.0.0": {
+        "runtime": {
+          "sınıf_instance_field.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sınıf_instance_field/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

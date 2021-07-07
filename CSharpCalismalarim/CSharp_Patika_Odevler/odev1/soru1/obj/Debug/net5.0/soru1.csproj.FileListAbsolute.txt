@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\bin\Debug\net5.0\soru1.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\bin\Debug\net5.0\soru1.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\bin\Debug\net5.0\soru1.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\bin\Debug\net5.0\soru1.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\bin\Debug\net5.0\soru1.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\bin\Debug\net5.0\ref\soru1.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\bin\Debug\net5.0\soru1.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\ref\soru1.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev1\soru1\obj\Debug\net5.0\soru1.genruntimeconfig.cache

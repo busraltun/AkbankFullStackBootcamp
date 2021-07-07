@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\bin\Debug\net5.0\degiskenler_ve_veri_turleri.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\bin\Debug\net5.0\degiskenler_ve_veri_turleri.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\bin\Debug\net5.0\degiskenler_ve_veri_turleri.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\bin\Debug\net5.0\degiskenler_ve_veri_turleri.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\bin\Debug\net5.0\degiskenler_ve_veri_turleri.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\bin\Debug\net5.0\ref\degiskenler_ve_veri_turleri.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\bin\Debug\net5.0\degiskenler_ve_veri_turleri.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\ref\degiskenler_ve_veri_turleri.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma2\degiskenler_ve_veri_turleri\obj\Debug\net5.0\degiskenler_ve_veri_turleri.genruntimeconfig.cache

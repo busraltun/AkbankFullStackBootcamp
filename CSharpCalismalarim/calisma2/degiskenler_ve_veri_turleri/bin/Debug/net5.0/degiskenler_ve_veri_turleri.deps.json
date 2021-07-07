@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "degiskenler_ve_veri_turleri/1.0.0": {
+        "runtime": {
+          "degiskenler_ve_veri_turleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "degiskenler_ve_veri_turleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

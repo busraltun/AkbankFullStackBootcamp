@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\bin\Debug\net5.0\encapsulatıon.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\bin\Debug\net5.0\encapsulatıon.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\bin\Debug\net5.0\encapsulatıon.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\bin\Debug\net5.0\encapsulatıon.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\bin\Debug\net5.0\encapsulatıon.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\bin\Debug\net5.0\ref\encapsulatıon.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\bin\Debug\net5.0\encapsulatıon.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\ref\encapsulatıon.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\encapsulatıon\obj\Debug\net5.0\encapsulatıon.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\bin\Debug\net5.0\Koleksiyon-Soru-2.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\bin\Debug\net5.0\Koleksiyon-Soru-2.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\bin\Debug\net5.0\Koleksiyon-Soru-2.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\bin\Debug\net5.0\Koleksiyon-Soru-2.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\bin\Debug\net5.0\Koleksiyon-Soru-2.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\bin\Debug\net5.0\ref\Koleksiyon-Soru-2.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\bin\Debug\net5.0\Koleksiyon-Soru-2.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\ref\Koleksiyon-Soru-2.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\CSharp_Patika_Odevler\odev2\Koleksiyon-Soru-2\obj\Debug\net5.0\Koleksiyon-Soru-2.genruntimeconfig.cache

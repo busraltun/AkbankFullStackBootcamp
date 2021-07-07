@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\bin\Debug\net5.0\kurucu_metot.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\bin\Debug\net5.0\kurucu_metot.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\bin\Debug\net5.0\kurucu_metot.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\bin\Debug\net5.0\kurucu_metot.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\bin\Debug\net5.0\kurucu_metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\bin\Debug\net5.0\ref\kurucu_metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\bin\Debug\net5.0\kurucu_metot.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\ref\kurucu_metot.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_13\kurucu_metot\obj\Debug\net5.0\kurucu_metot.genruntimeconfig.cache

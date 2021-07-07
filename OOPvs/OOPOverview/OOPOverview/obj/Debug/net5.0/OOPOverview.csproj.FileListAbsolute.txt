@@ -1,0 +1,16 @@
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\bin\Debug\net5.0\OOPOverview.exe
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\bin\Debug\net5.0\OOPOverview.deps.json
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\bin\Debug\net5.0\OOPOverview.runtimeconfig.json
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\bin\Debug\net5.0\OOPOverview.runtimeconfig.dev.json
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\bin\Debug\net5.0\OOPOverview.dll
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\bin\Debug\net5.0\ref\OOPOverview.dll
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\bin\Debug\net5.0\OOPOverview.pdb
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.csprojAssemblyReference.cache
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.AssemblyInfoInputs.cache
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.AssemblyInfo.cs
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.dll
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\ref\OOPOverview.dll
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.pdb
+C:\Users\Desktop\full-stack-development\full_stack_bootcamp_çalışmalar\Full-Stack-Bootcamp\OOPOverview\OOPOverview\obj\Debug\net5.0\OOPOverview.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\bin\Debug\net5.0\Recursive_Extension_Metotlar.exe
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\bin\Debug\net5.0\Recursive_Extension_Metotlar.deps.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\bin\Debug\net5.0\Recursive_Extension_Metotlar.runtimeconfig.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\bin\Debug\net5.0\Recursive_Extension_Metotlar.runtimeconfig.dev.json
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\bin\Debug\net5.0\Recursive_Extension_Metotlar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\bin\Debug\net5.0\ref\Recursive_Extension_Metotlar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\bin\Debug\net5.0\Recursive_Extension_Metotlar.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.csprojAssemblyReference.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.AssemblyInfoInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.AssemblyInfo.cs
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\ref\Recursive_Extension_Metotlar.dll
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.pdb
+C:\Users\Desktop\csharp\CSharp_Calismalarim\calisma_10\Recursive_Extension_Metotlar\obj\Debug\net5.0\Recursive_Extension_Metotlar.genruntimeconfig.cache
